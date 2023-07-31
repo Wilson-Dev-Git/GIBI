@@ -1,0 +1,30 @@
+.content-header h1 {
+    position: relative; /* Establece la posición relativa */
+    left: 18px; /* Ajusta la posición hacia la derecha */
+    margin-right: 20px; /* Ajusta el margen derecho para dar espacio adicional */
+}
+
+.navbar-nav .nav-link i {
+    position: relative; /* Establece la posición relativa */
+    left: 10px; /* Ajusta la posición hacia la derecha */
+}
+
+.brand-text {
+    position: relative; /* Establece la posición relativa */
+    left: 10px; /* Ajusta la posición hacia la derecha */
+}
+
+.nav-item a {
+    display: flex;
+    align-items: center;
+    font-size: 16px; /* Aumentar el tamaño del texto a 16px */
+}
+
+.nav-item a i {
+    margin-right: 15px;
+    margin-left: 5px;
+}
+
+td {
+    white-space: nowrap;
+}
